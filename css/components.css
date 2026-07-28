@@ -125,3 +125,13 @@ h3 { font-size: var(--text-lg); }
   width: auto;
   display: block;
 }
+.eyebrow-hero {
+  display: block;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  box-sizing: border-box;
+  border-radius: 0;
+}
