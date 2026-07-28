@@ -1,0 +1,38 @@
+/* base.css — сброс и базовые стили */
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  line-height: 1.6;
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+img, svg { display: block; max-width: 100%; }
+a { text-decoration: none; color: inherit; }
+button { font: inherit; cursor: pointer; }
+h1, h2, h3 { line-height: 1.05; margin: 0 0 var(--space-4); }
+p { margin: 0 0 var(--space-4); }
+
+.skip-link { position: absolute; left: -9999px; top: 0; }
+.skip-link:focus {
+  left: 1rem; top: 1rem; background: var(--color-surface);
+  padding: 1rem; border-radius: var(--radius-sm); z-index: 100;
+}
+.container { width: min(calc(100% - 2rem), var(--content)); margin: 0 auto; }
+.muted { color: var(--color-text-muted); }
+
+:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 3px;
+  border-radius: var(--radius-sm);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

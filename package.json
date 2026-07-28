@@ -1,0 +1,11 @@
+{
+  "name": "abit",
+  "version": "1.0.0",
+  "description": "Сайт для абитуриентов ИТиАД ИРНИТУ",
+  "private": true,
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "license": "MIT"
+}
