@@ -120,3 +120,8 @@ h3 { font-size: var(--text-lg); }
   .btn { width: 100%; }
   .hero-card { padding: var(--space-6); }
 }
+.brand-logo {
+  height: 40px;
+  width: auto;
+  display: block;
+}
