@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="./css/tokens.css">
   <link rel="stylesheet" href="./css/base.css">
   <link rel="stylesheet" href="./css/components.css">
+  <link rel="stylesheet" href="./css/curriculum.css">
 </head>
 <body>
   <a href="#content" class="skip-link">Перейти к содержимому</a>
@@ -20,9 +21,9 @@
         <img src="./images/logo.png" alt="ИТиАД им. Е.И. Попова" class="brand-logo">
       </a>
       <nav aria-label="Основная навигация">
-        <a href="#why">Преимущества</a>
-        <a href="#practice">Практика</a>
-        <a href="#partners">Партнёры</a>
+        <a href="#learning-map">Карта обучения</a>
+        <a href="#teachers">Преподаватели</a>
+        <a href="#projects">Проекты</a>
         <a href="#programs">Программы</a>
         <a href="#faq">FAQ</a>
         <a href="#admission">Поступление</a>
@@ -35,11 +36,11 @@
     <section class="hero" id="top">
       <div class="container hero-grid">
         <div>
-          <span class="eyebrow eyebrow-hero">Для сильных абитуриентов, которые выбирают не только диплом, но и траекторию роста</span>
-          <h1>Учитесь на реальных задачах индустрии, а не на учебных имитациях.</h1>
+          <span class="eyebrow eyebrow-hero">ИТиАД ИРНИТУ · Твоя траектория в технологиях</span>
+          <h1>От первой строки кода<br>до собственных систем.</h1>
           <p class="lead">Институт информационных технологий и анализа данных ИРНИТУ готовит специалистов в области ИТ, анализа данных, программной инженерии, кибербезопасности и ИИ. Ключевая особенность — практика на реальных задачах производственных партнёров.</p>
           <div class="hero-actions">
-            <a class="btn btn-primary" href="#admission">Подать согласие в ИТиАД</a>
+            <a class="btn btn-primary" href="#learning-map">Исследовать карту обучения →</a>
             <a class="btn btn-secondary" href="https://www.istu.edu/struktura/iit" target="_blank" rel="noopener noreferrer">Официальная страница института</a>
           </div>
           <div class="hero-metrics" aria-label="Ключевые факты">
@@ -68,6 +69,15 @@
       </div>
     </section>
 
+    <section class="section" id="evm-program">
+      <div class="container program-feature">
+        <div><span class="eyebrow">Первая программа на карте · 09.03.01</span><h2>Вычислительные машины,<br>комплексы, системы и сети</h2><p>Пойми компьютер целиком: от устройства процессора до программ, сетей и сервисов, которыми пользуются люди.</p><p class="muted" id="program-version-label">Исходный план · 2022 на титуле</p><a href="#learning-map" class="btn btn-primary">Пройти путь по семестрам →</a></div>
+        <div><h3>Что тебе интересно создавать?</h3><ul><li>Приложения, которые работают с данными и решают задачи пользователей.</li><li>Сети и серверную инфраструктуру для цифровых сервисов.</li><li>Системы с датчиками и контроллерами, соединяющие программы с физическим миром.</li></ul><p class="muted">Очная форма · бакалавр · 8 семестров · 240 з.е. в исходном плане. Для проекта 2027 параметры ещё уточняются.</p></div>
+      </div>
+    </section>
+    <section class="map-section"><div class="container" id="learning-map"><p role="status">Загружаем карту обучения…</p><noscript>Для интерактивной карты включите JavaScript. Учебные данные доступны в репозитории ABIT.</noscript></div></section>
+    <section class="section" id="projects"><div class="container"><div class="section-head"><div><span class="eyebrow">От знаний к результату</span><h2>Что можно создать?</h2></div><p>Идеи учебных проектов: посмотри, какие предметы помогают к ним подойти. Реальные студенческие работы добавим с командой и демонстрацией.</p></div><div class="grid-3" id="projects-content"></div></div></section>
+    <section class="section" id="teachers"><div class="container"><div class="section-head"><div><span class="eyebrow">Люди программы</span><h2>Учиться и делать вместе.</h2></div><p>Здесь появятся преподаватели, их интересы и проекты со студентами. Начинаем с руководителя программы, указанного в учебном плане.</p></div><div id="teachers-content"></div></div></section>
     <section class="section" id="why">
       <div class="container">
         <div class="section-head">

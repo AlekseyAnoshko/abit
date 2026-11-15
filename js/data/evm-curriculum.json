@@ -1,0 +1,1988 @@
+{
+  "title": "Вычислительные машины, комплексы, системы и сети",
+  "code": "09.03.01",
+  "year": "2022",
+  "sourceFile": "09.03.01 (ЭВМб-23).plx.xlsx",
+  "sourceSheet": "ПланСвод",
+  "filenameCohort": "ЭВМб-23",
+  "academicYear": "2022–2023",
+  "status": "Исходный план; принадлежность набору требует уточнения",
+  "subjects": [
+    {
+      "id": "Б1.Б.01.01",
+      "name": "Иностранный язык",
+      "group": "Общеобразовательный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 2,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 3,
+          "credits": 2.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 4,
+          "credits": 2.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 5,
+          "credits": 3.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        },
+        {
+          "semester": 8,
+          "credits": 1.0,
+          "studyHours": 18.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 14.0,
+      "hours": 504.0,
+      "sourceRow": 7,
+      "department": "Иностранных языков № 1"
+    },
+    {
+      "id": "Б1.Б.01.02",
+      "name": "Основы деловой коммуникации",
+      "group": "Общеобразовательный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 2.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 2.0,
+      "hours": 72.0,
+      "sourceRow": 8,
+      "department": "Рекламы и журналистики"
+    },
+    {
+      "id": "Б1.Б.01.03",
+      "name": "Основы инклюзивного взаимодействия",
+      "group": "Общеобразовательный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 2,
+          "credits": 1.0,
+          "studyHours": 36.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 1.0,
+      "hours": 36.0,
+      "sourceRow": 9,
+      "department": "Социологии и психологии"
+    },
+    {
+      "id": "Б1.Б.01.04",
+      "name": "Критическое и системное мышление",
+      "group": "Общеобразовательный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 3,
+          "credits": 1.0,
+          "studyHours": 36.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 1.0,
+      "hours": 36.0,
+      "sourceRow": 10,
+      "department": "Истории и философии"
+    },
+    {
+      "id": "Б1.Б.01.05",
+      "name": "Правоведение",
+      "group": "Общеобразовательный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 5,
+          "credits": 2.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 2.0,
+      "hours": 72.0,
+      "sourceRow": 11,
+      "department": "Теории права, конституционного и административного права"
+    },
+    {
+      "id": "Б1.Б.01.06",
+      "name": "Философия",
+      "group": "Общеобразовательный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 6,
+          "credits": 3.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 12,
+      "department": "Истории и философии"
+    },
+    {
+      "id": "Б1.Б.01.07",
+      "name": "История России",
+      "group": "Общеобразовательный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 7,
+          "credits": 4.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 4.0,
+      "hours": 144.0,
+      "sourceRow": 13,
+      "department": "Истории и философии"
+    },
+    {
+      "id": "Б1.Б.01.08",
+      "name": "Экономика",
+      "group": "Общеобразовательный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 7,
+          "credits": 2.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 2.0,
+      "hours": 72.0,
+      "sourceRow": 14,
+      "department": "Экономики и цифровых бизнес-технологий"
+    },
+    {
+      "id": "Б1.Б.01.09",
+      "name": "Безопасность жизнедеятельности",
+      "group": "Общеобразовательный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 8,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 15,
+      "department": "Промышленной экологии и безопасности жизнедеятельности"
+    },
+    {
+      "id": "Б1.Б.02.01",
+      "name": "Математика",
+      "group": "Фундаментальный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 4.0,
+          "studyHours": 144.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 2,
+          "credits": 4.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 8.0,
+      "hours": 288.0,
+      "sourceRow": 17,
+      "department": "Отделение прикладной математики и информатики"
+    },
+    {
+      "id": "Б1.Б.02.02",
+      "name": "Физика",
+      "group": "Фундаментальный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 2,
+          "credits": 5.0,
+          "studyHours": 144.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 8.0,
+      "hours": 288.0,
+      "sourceRow": 18,
+      "department": "Физики"
+    },
+    {
+      "id": "Б1.Б.02.03",
+      "name": "Инженерная графика",
+      "group": "Фундаментальный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 2,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт с оценкой"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 19,
+      "department": "Инженерной и компьютерной графики"
+    },
+    {
+      "id": "Б1.Б.03.01",
+      "name": "Информатика",
+      "group": "Базовый",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 3.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        },
+        {
+          "semester": 2,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 6.0,
+      "hours": 216.0,
+      "sourceRow": 21,
+      "department": "Отделение прикладной математики и информатики"
+    },
+    {
+      "id": "Б1.Б.03.02",
+      "name": "Программирование",
+      "group": "Базовый",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 5.0,
+          "studyHours": 144.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        },
+        {
+          "semester": 2,
+          "credits": 4.0,
+          "studyHours": 144.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 9.0,
+      "hours": 324.0,
+      "sourceRow": 22,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.Б.03.03",
+      "name": "Дискретная математика",
+      "group": "Базовый",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 4.0,
+          "studyHours": 144.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 4.0,
+      "hours": 144.0,
+      "sourceRow": 23,
+      "department": "Отделение прикладной математики и информатики"
+    },
+    {
+      "id": "Б1.Б.03.04",
+      "name": "Электротехника",
+      "group": "Базовый",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 2,
+          "credits": 4.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 4.0,
+      "hours": 144.0,
+      "sourceRow": 24,
+      "department": "Электроснабжения и электротехники"
+    },
+    {
+      "id": "Б1.Б.03.05",
+      "name": "Теория вероятностей,  математическая статистика и случайные процессы",
+      "group": "Базовый",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 3,
+          "credits": 4.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 4.0,
+      "hours": 144.0,
+      "sourceRow": 25,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.Б.03.06",
+      "name": "Математическая логика и теория алгоритмов",
+      "group": "Базовый",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 3,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 26,
+      "department": "Отделение прикладной математики и информатики"
+    },
+    {
+      "id": "Б1.Б.03.07",
+      "name": "Вычислительная математика",
+      "group": "Базовый",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 3,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 27,
+      "department": "Отделение прикладной математики и информатики"
+    },
+    {
+      "id": "Б1.Б.03.08",
+      "name": "Организация ЭВМ и периферийные устройства",
+      "group": "Базовый",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 3,
+          "credits": 4.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        },
+        {
+          "semester": 4,
+          "credits": 2.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 6.0,
+      "hours": 216.0,
+      "sourceRow": 28,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.Б.03.09",
+      "name": "Основы цифровой электроники",
+      "group": "Базовый",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 4,
+          "credits": 4.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 4.0,
+      "hours": 144.0,
+      "sourceRow": 29,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.Б.03.10",
+      "name": "Компьютерная графика",
+      "group": "Базовый",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 4,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 30,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.Б.03.11",
+      "name": "Операционные системы",
+      "group": "Базовый",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 4,
+          "credits": 3.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 31,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.Б.03.12",
+      "name": "Базы данных",
+      "group": "Базовый",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 4,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 5,
+          "credits": 3.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Экзамен",
+            "Курсовой проект"
+          ]
+        }
+      ],
+      "credits": 6.0,
+      "hours": 216.0,
+      "sourceRow": 32,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.Б.03.13",
+      "name": "Сети и телекоммуникации",
+      "group": "Базовый",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 5,
+          "credits": 4.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 4.0,
+      "hours": 144.0,
+      "sourceRow": 33,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.Б.03.14",
+      "name": "Защита информации",
+      "group": "Базовый",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 6,
+          "credits": 4.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 4.0,
+      "hours": 144.0,
+      "sourceRow": 34,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.Б.04.01",
+      "name": "Основы проектной деятельности",
+      "group": "Проекты и практика",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 4,
+          "credits": 2.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 2.0,
+      "hours": 72.0,
+      "sourceRow": 36,
+      "department": "Центр проектного обучения"
+    },
+    {
+      "id": "Б1.Б.05.01",
+      "name": "Физическая культура и спорт",
+      "group": "Общеобразовательный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 2.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 2.0,
+      "hours": 72.0,
+      "sourceRow": 38,
+      "department": "Физической культуры"
+    },
+    {
+      "id": "Б1.Б.05.02.ДВ.01.01",
+      "name": "Общая физическая подготовка",
+      "group": "Общеобразовательный",
+      "selected": true,
+      "choice": "Б1.Б.05.02.ДВ.01",
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 2,
+          "credits": 0.0,
+          "studyHours": 128.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 3,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 4,
+          "credits": 0.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 0.0,
+      "hours": 328.0,
+      "sourceRow": 41,
+      "department": "Физической культуры"
+    },
+    {
+      "id": "Б1.Б.05.02.ДВ.01.02",
+      "name": "Атлетическая гимнастика",
+      "group": "Общеобразовательный",
+      "selected": false,
+      "choice": "Б1.Б.05.02.ДВ.01",
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 2,
+          "credits": 0.0,
+          "studyHours": 128.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 3,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 4,
+          "credits": 0.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 0.0,
+      "hours": 328.0,
+      "sourceRow": 42,
+      "department": "Физической культуры"
+    },
+    {
+      "id": "Б1.Б.05.02.ДВ.01.03",
+      "name": "Бокс",
+      "group": "Общеобразовательный",
+      "selected": false,
+      "choice": "Б1.Б.05.02.ДВ.01",
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 2,
+          "credits": 0.0,
+          "studyHours": 128.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 3,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 4,
+          "credits": 0.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 0.0,
+      "hours": 328.0,
+      "sourceRow": 43,
+      "department": "Физической культуры"
+    },
+    {
+      "id": "Б1.Б.05.02.ДВ.01.04",
+      "name": "Спортивные танцы",
+      "group": "Общеобразовательный",
+      "selected": false,
+      "choice": "Б1.Б.05.02.ДВ.01",
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 2,
+          "credits": 0.0,
+          "studyHours": 128.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 3,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 4,
+          "credits": 0.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 0.0,
+      "hours": 328.0,
+      "sourceRow": 44,
+      "department": "Физической культуры"
+    },
+    {
+      "id": "Б1.Б.05.02.ДВ.01.05",
+      "name": "Аэробика",
+      "group": "Общеобразовательный",
+      "selected": false,
+      "choice": "Б1.Б.05.02.ДВ.01",
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 2,
+          "credits": 0.0,
+          "studyHours": 128.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 3,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 4,
+          "credits": 0.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 0.0,
+      "hours": 328.0,
+      "sourceRow": 45,
+      "department": "Физической культуры"
+    },
+    {
+      "id": "Б1.Б.05.02.ДВ.01.06",
+      "name": "Оздоровительная физическая культура",
+      "group": "Общеобразовательный",
+      "selected": false,
+      "choice": "Б1.Б.05.02.ДВ.01",
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 2,
+          "credits": 0.0,
+          "studyHours": 128.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 3,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 4,
+          "credits": 0.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 0.0,
+      "hours": 328.0,
+      "sourceRow": 46,
+      "department": "Физической культуры"
+    },
+    {
+      "id": "Б1.Б.05.02.ДВ.01.07",
+      "name": "Адаптивная физическая культура",
+      "group": "Общеобразовательный",
+      "selected": false,
+      "choice": "Б1.Б.05.02.ДВ.01",
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 2,
+          "credits": 0.0,
+          "studyHours": 128.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 3,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 4,
+          "credits": 0.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 0.0,
+      "hours": 328.0,
+      "sourceRow": 47,
+      "department": "Физической культуры"
+    },
+    {
+      "id": "Б1.Б.05.02.ДВ.01.08",
+      "name": "Военно-прикладная физическая подготовка",
+      "group": "Общеобразовательный",
+      "selected": false,
+      "choice": "Б1.Б.05.02.ДВ.01",
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 2,
+          "credits": 0.0,
+          "studyHours": 128.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 3,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 4,
+          "credits": 0.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 0.0,
+      "hours": 328.0,
+      "sourceRow": 48,
+      "department": "Физической культуры"
+    },
+    {
+      "id": "Б1.Б.05.02.ДВ.01.09",
+      "name": "Спортивные игры",
+      "group": "Общеобразовательный",
+      "selected": false,
+      "choice": "Б1.Б.05.02.ДВ.01",
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 2,
+          "credits": 0.0,
+          "studyHours": 128.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 3,
+          "credits": 0.0,
+          "studyHours": 64.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 4,
+          "credits": 0.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 0.0,
+      "hours": 328.0,
+      "sourceRow": 49,
+      "department": "Физической культуры"
+    },
+    {
+      "id": "Б1.В.01.01",
+      "name": "Проектная деятельность",
+      "group": "Проекты и практика",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 5,
+          "credits": 2.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт с оценкой"
+          ]
+        },
+        {
+          "semester": 6,
+          "credits": 2.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт с оценкой"
+          ]
+        },
+        {
+          "semester": 7,
+          "credits": 2.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт с оценкой"
+          ]
+        },
+        {
+          "semester": 8,
+          "credits": 2.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт с оценкой"
+          ]
+        }
+      ],
+      "credits": 8.0,
+      "hours": 288.0,
+      "sourceRow": 52,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.01",
+      "name": "Введение в профессиональную деятельность",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 4.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 4.0,
+      "hours": 144.0,
+      "sourceRow": 54,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.02",
+      "name": "Объектно-ориентированное программирование",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 3,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 55,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.03",
+      "name": "Теория автоматов",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 3,
+          "credits": 4.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Экзамен",
+            "Курсовая работа"
+          ]
+        }
+      ],
+      "credits": 4.0,
+      "hours": 144.0,
+      "sourceRow": 56,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.04",
+      "name": "Методы обработки данных",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 4,
+          "credits": 5.0,
+          "studyHours": 144.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 5.0,
+      "hours": 180.0,
+      "sourceRow": 57,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.05",
+      "name": "Схемотехника",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 4,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 58,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.06",
+      "name": "Системы хранения данных",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 4,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 59,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.07",
+      "name": "Web-программирование",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 5,
+          "credits": 4.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 4.0,
+      "hours": 144.0,
+      "sourceRow": 60,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.08",
+      "name": "Организация центров обработки данных",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 5,
+          "credits": 5.0,
+          "studyHours": 180.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 5.0,
+      "hours": 180.0,
+      "sourceRow": 61,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.09",
+      "name": "Трансляторы и программные системы",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 5,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        },
+        {
+          "semester": 6,
+          "credits": 4.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Экзамен",
+            "Курсовой проект"
+          ]
+        }
+      ],
+      "credits": 7.0,
+      "hours": 252.0,
+      "sourceRow": 62,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.10",
+      "name": "Интеллектные вычислительные системы",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 6,
+          "credits": 5.0,
+          "studyHours": 180.0,
+          "assessment": [
+            "Зачёт с оценкой"
+          ]
+        }
+      ],
+      "credits": 5.0,
+      "hours": 180.0,
+      "sourceRow": 63,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.11",
+      "name": "Технологии интернета вещей",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 6,
+          "credits": 4.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        },
+        {
+          "semester": 7,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 7.0,
+      "hours": 252.0,
+      "sourceRow": 64,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.12",
+      "name": "Проектирование информационных систем",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 7,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 65,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.13",
+      "name": "Технологии программирования",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 7,
+          "credits": 5.0,
+          "studyHours": 144.0,
+          "assessment": [
+            "Экзамен",
+            "Курсовой проект"
+          ]
+        }
+      ],
+      "credits": 5.0,
+      "hours": 180.0,
+      "sourceRow": 66,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.14",
+      "name": "Обработка больших данных и распределенные вычисления",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 7,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 67,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.15",
+      "name": "Машинно-ориентированные языки",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 8,
+          "credits": 5.0,
+          "studyHours": 144.0,
+          "assessment": [
+            "Экзамен",
+            "Курсовой проект"
+          ]
+        }
+      ],
+      "credits": 5.0,
+      "hours": 180.0,
+      "sourceRow": 68,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.16",
+      "name": "Основы ИТ-менеджмента",
+      "group": "Профильный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 8,
+          "credits": 3.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 69,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.ДВ.01.01",
+      "name": "Администрирование Linux систем",
+      "group": "Профильный",
+      "selected": true,
+      "choice": "Б1.В.02.ДВ.01",
+      "semesters": [
+        {
+          "semester": 7,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 71,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.ДВ.01.02",
+      "name": "Программирование 1С",
+      "group": "Профильный",
+      "selected": false,
+      "choice": "Б1.В.02.ДВ.01",
+      "semesters": [
+        {
+          "semester": 7,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 72,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.ДВ.02.01",
+      "name": "Администрирование 1С",
+      "group": "Профильный",
+      "selected": true,
+      "choice": "Б1.В.02.ДВ.02",
+      "semesters": [
+        {
+          "semester": 8,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 74,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.02.ДВ.02.02",
+      "name": "Безопасность Linux систем",
+      "group": "Профильный",
+      "selected": false,
+      "choice": "Б1.В.02.ДВ.02",
+      "semesters": [
+        {
+          "semester": 8,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 75,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.03.01",
+      "name": "Основы системологии",
+      "group": "Дополнительный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 6,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 77,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.03.02",
+      "name": "Защита интеллектуальной собственности",
+      "group": "Дополнительный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 6,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 78,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б1.В.03.03",
+      "name": "Технологические процессы основных отраслей",
+      "group": "Дополнительный",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 7,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 79,
+      "department": "Автоматизации и управления"
+    },
+    {
+      "id": "Б2.Б.01(У)",
+      "name": "Учебная практика: технологическая (проектно-технологическая) практика",
+      "group": "Проекты и практика",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 2,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 82,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б2.Б.02(П)",
+      "name": "Производственная практика: технологическая (проектно-технологическая) практика",
+      "group": "Проекты и практика",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 4,
+          "credits": 6.0,
+          "studyHours": 216.0,
+          "assessment": [
+            "Зачёт с оценкой"
+          ]
+        }
+      ],
+      "credits": 6.0,
+      "hours": 216.0,
+      "sourceRow": 83,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б2.В.01(П)",
+      "name": "Производственная практика: технологическая (проектно-технологическая) практика",
+      "group": "Проекты и практика",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 6,
+          "credits": 6.0,
+          "studyHours": 216.0,
+          "assessment": [
+            "Зачёт с оценкой"
+          ]
+        }
+      ],
+      "credits": 6.0,
+      "hours": 216.0,
+      "sourceRow": 85,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б2.В.02(Пд)",
+      "name": "Производственная практика: преддипломная практика",
+      "group": "Проекты и практика",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 8,
+          "credits": 6.0,
+          "studyHours": 216.0,
+          "assessment": [
+            "Зачёт с оценкой"
+          ]
+        }
+      ],
+      "credits": 6.0,
+      "hours": 216.0,
+      "sourceRow": 86,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "Б3.01(Д)",
+      "name": "Подготовка к процедуре защиты и защита выпускной квалификационной работы",
+      "group": "Проекты и практика",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 8,
+          "credits": 9.0,
+          "studyHours": 324.0,
+          "assessment": [
+            "Экзамен"
+          ]
+        }
+      ],
+      "credits": 9.0,
+      "hours": 324.0,
+      "sourceRow": 88,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "ФТД.01",
+      "name": "Стандартизация разработки и оценка качества программного обеспечения",
+      "group": "Факультативы",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 6,
+          "credits": 3.0,
+          "studyHours": 108.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 3.0,
+      "hours": 108.0,
+      "sourceRow": 90,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "ФТД.02",
+      "name": "Образовательный форсайт",
+      "group": "Факультативы",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 6,
+          "credits": 2.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 2.0,
+      "hours": 72.0,
+      "sourceRow": 91,
+      "department": "Институт информационных технологий и анализа данных"
+    },
+    {
+      "id": "ФТД.03",
+      "name": "Подготовка к сдаче квалификационного экзамена по иностранному языку",
+      "group": "Факультативы",
+      "selected": true,
+      "choice": null,
+      "semesters": [
+        {
+          "semester": 8,
+          "credits": 2.0,
+          "studyHours": 72.0,
+          "assessment": [
+            "Зачёт"
+          ]
+        }
+      ],
+      "credits": 2.0,
+      "hours": 72.0,
+      "sourceRow": 92,
+      "department": "Иностранных языков № 1"
+    }
+  ],
+  "edges": [
+    {
+      "from": "Б1.Б.02.01",
+      "to": "Б1.Б.03.07",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.02.01",
+      "to": "Б1.Б.03.05",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.03",
+      "to": "Б1.Б.03.06",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.03",
+      "to": "Б1.В.02.03",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.02.02",
+      "to": "Б1.Б.03.04",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.04",
+      "to": "Б1.Б.03.09",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.04",
+      "to": "Б1.В.02.05",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.01",
+      "to": "Б1.Б.03.08",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.02",
+      "to": "Б1.В.02.02",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.02",
+      "to": "Б1.Б.03.12",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.02",
+      "to": "Б1.Б.03.10",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.В.02.02",
+      "to": "Б1.В.02.07",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.12",
+      "to": "Б1.В.02.07",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.В.02.03",
+      "to": "Б1.В.02.09",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.06",
+      "to": "Б1.В.02.09",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.08",
+      "to": "Б1.Б.03.11",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.08",
+      "to": "Б1.В.02.06",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.11",
+      "to": "Б1.В.02.08",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.В.02.06",
+      "to": "Б1.В.02.08",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.08",
+      "to": "Б1.Б.03.13",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.13",
+      "to": "Б1.Б.03.14",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.13",
+      "to": "Б1.В.02.11",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.В.02.05",
+      "to": "Б1.В.02.11",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.05",
+      "to": "Б1.В.02.04",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.В.02.04",
+      "to": "Б1.В.02.10",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.В.02.04",
+      "to": "Б1.В.02.14",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.В.02.08",
+      "to": "Б1.В.02.14",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.11",
+      "to": "Б1.В.02.ДВ.01.01",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.В.02.ДВ.01.01",
+      "to": "Б1.В.02.ДВ.02.02",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.12",
+      "to": "Б1.В.02.12",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.В.02.02",
+      "to": "Б1.В.02.13",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.03.08",
+      "to": "Б1.В.02.15",
+      "status": "proposed"
+    },
+    {
+      "from": "Б1.Б.04.01",
+      "to": "Б1.В.01.01",
+      "status": "proposed"
+    }
+  ],
+  "semesterCredits": [
+    30.0,
+    30.0,
+    24.0,
+    36.0,
+    26.0,
+    34.0,
+    28.0,
+    32.0
+  ],
+  "note": "Семестры и названия взяты из учебного плана. Пунктирные связи — предложения для проверки руководителем программы, а не утверждённые пререквизиты."
+}

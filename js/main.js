@@ -1,3 +1,4 @@
+import { initCurriculum } from "./curriculum.js";
 import { partners } from "./data/partners.js";
 import { programs } from "./data/programs.js";
 import { faq } from "./data/faq.js";
@@ -20,6 +21,7 @@ function renderPrograms() {
     <article class="card">
       <h3>${p.title}</h3>
       <p>${p.desc}</p>
+      ${p.href ? `<a class="text-link" href="${p.href}">Подробнее и карта обучения →</a>` : ""}
     </article>
   `).join("");
 }
@@ -72,4 +74,5 @@ document.addEventListener("DOMContentLoaded", () => {
   renderPartners();
   renderPrograms();
   renderFaq();
+  initCurriculum();
 });
